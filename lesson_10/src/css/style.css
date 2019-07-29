@@ -1,0 +1,97 @@
+.main {
+  /* padding-top: 159px; */
+  /* padding-bottom: 200px; */
+}
+
+.main-img {
+  margin-left: 65px;
+}
+
+.subtitle {
+  font-size: 20px;
+  color: #32325f;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 700;
+  color: #32325f;
+  margin-left: -1.5px;
+}
+
+.description {
+  font-size: 20px;
+  line-height: 26px;
+  color: #32325f;
+}
+
+.price_tag {
+  font-size: 20px;
+  color: #32325f;
+}
+
+.price {
+  font-size: 48px;
+  color: #525f7f;
+}
+
+.about-section {
+  /* padding-top: 90px; */
+  /* padding-bottom: 130px; */
+  color: #32325f;
+}
+
+.about-block {
+  /* margin-top: 100px; */
+}
+
+.footer-section {
+  /* padding-top: 78px; */
+  /* padding-bottom: 104px; */
+  color: #ffffff;
+  background-color: #32325f;
+}
+
+.span-1 {
+  display: block;
+}
+
+.footer-p {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.section-subtitle {
+  color: #32325f;
+  font-size: 20px;
+}
+
+.navbar {
+  padding-left: 0 !important;
+}
+
+.green-btn {
+  padding: 15px 31px;
+  color: #ffffff;
+  background-color: #2dce89;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(173, 173, 173, 0.16);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.blue-btn {
+  padding: 15px 35px;
+  color: #ffffff;
+  background-color: #5e72e4;
+  ;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(173, 173, 173, 0.16);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.section-title {
+  font-size: 48px;
+  font-weight: 700;
+}
